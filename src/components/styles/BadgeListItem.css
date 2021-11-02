@@ -1,0 +1,17 @@
+.BtnEdit,
+.BtnDelete,
+.BtnView {
+  height: 27px;
+  width: 27px;
+}
+
+.BtnEdit:hover,
+.BtnView:hover {
+  background-color: rgb(53, 53, 53);
+  cursor: pointer;
+}
+
+.BtnDelete:hover {
+  background-color: rgb(148, 4, 4);
+  cursor: pointer;
+}
